@@ -1,0 +1,16 @@
+.places__url-heading { 
+    text-decoration: none;
+    color: #aaa;
+    font-size: 0.75rem;
+    letter-spacing: 0.125rem;
+    text-transform: uppercase;
+} 
+
+/* .places__url-heading {
+    margin: 0 0 1rem;
+    color: #aaa;
+    font-size: 12px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+  }
+  

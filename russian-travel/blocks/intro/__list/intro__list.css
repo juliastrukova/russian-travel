@@ -1,0 +1,9 @@
+.intro__list {
+    font-size: 0.75rem;
+    line-height: 1.125rem;
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+    font-weight: normal;
+    color: #aaa;
+}

@@ -1,0 +1,10 @@
+.page{
+    font-family: "inter", Arial, Helvetica, sans-serif;
+    width: 100%;
+    margin: 0 auto;
+    background: #2A2C2F;
+    color: #FFFFFF;
+    text-rendering: optimizeLegibility;
+    position: relative;
+    box-sizing: border-box;
+}
