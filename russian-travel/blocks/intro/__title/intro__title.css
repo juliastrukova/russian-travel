@@ -11,9 +11,3 @@
         line-height: 2.1875rem;
     }
 }
-
-@media screen and (max-width:768px){
-    .intro__title {
-        
-    }
-}
