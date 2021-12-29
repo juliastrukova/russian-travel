@@ -3,10 +3,3 @@
     grid-row: 1;
     grid-column: 1;
 }
-
-@media screen and (max-width: 320px) {
-    .lead__image {
-      height: 211px;
-      width: auto;
-    }
-  }

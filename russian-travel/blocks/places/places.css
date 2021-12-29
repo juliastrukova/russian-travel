@@ -6,6 +6,12 @@
     padding-top: 92px;
 }
 
+@media screen and (max-width: 1280px) {
+    .places {
+      width: 92.5%;
+    }
+  }
+
 @media screen and (max-width:1024px){
     .places{
         width: 90%;
@@ -25,9 +31,3 @@
         grid-row-gap: 50px;
     }
 }
-
-@media screen and (max-width: 1280px) {
-    .places {
-      width: 92.5%;
-    }
-  }
