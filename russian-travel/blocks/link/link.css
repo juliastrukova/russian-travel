@@ -1,11 +1,11 @@
 .link{
-    text-decoration: none;
-    color: #FFFFFF;
-    opacity: 1;
-    transition-duration: 2s;
-  }
+  text-decoration: none;
+  color: #FFFFFF;
+  opacity: 1;
+  transition-duration: 2s;
+}
 
-  .link:hover{
-    opacity: 0.5;
-    transition-duration: 2s;
-  }
+.link:hover{
+  opacity: 0.5;
+  transition-duration: 2s;
+}
