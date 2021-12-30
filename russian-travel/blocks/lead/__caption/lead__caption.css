@@ -5,7 +5,6 @@
     text-transform: uppercase;
     justify-self: start;
     margin: 8px 0 auto 0;
-    color: #aaa;
 }
 
 @media screen and (max-width:768px){
@@ -24,5 +23,6 @@
   @media screen and (max-width: 320px) {
   .lead__caption {
     width: 90%;
+    margin-left: 16px;
     }
   }

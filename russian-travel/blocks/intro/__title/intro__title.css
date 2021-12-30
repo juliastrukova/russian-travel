@@ -2,6 +2,9 @@
     font-weight: 900;
     font-size: 3.375rem;
     line-height: 3.625rem;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 40px;
 }
 
 @media screen and (max-width:425px){
@@ -9,5 +12,6 @@
         margin: 0 auto 40px;
         font-size: 2rem;
         line-height: 2.1875rem;
+        padding-bottom: 0;
     }
 }
