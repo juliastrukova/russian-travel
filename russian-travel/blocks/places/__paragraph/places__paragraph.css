@@ -3,7 +3,7 @@
     line-height: 1.8125rem;
     margin: 0 0 26px;
     grid-column: 2;
-    width: 85%;
+    width: 100%;
 }
 
 @media screen and (max-width:768px){
