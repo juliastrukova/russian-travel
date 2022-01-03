@@ -19,5 +19,5 @@
 
 **Автор:** Юлия Струкова
 
-**Ссылка:**
-https://github.com/juliastrukova/russian-travel
+**Ссылка на сайт:**
+https://juliastrukova.github.io/russian-travel/russian-travel/
