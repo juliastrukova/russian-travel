@@ -20,4 +20,4 @@
 **Автор:** Юлия Струкова
 
 **Ссылка на сайт:**
-https://juliastrukova.github.io/russian-travel/
+https://juliastrukova.github.io/russian-travel/index.html
